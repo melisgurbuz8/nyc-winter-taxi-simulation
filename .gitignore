@@ -1,0 +1,13 @@
+# Streamlit agent skills
+.agents/skills/developing-with-streamlit
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/*.parquet
+data/raw/*.csv
+data/processed/simulation_run_detail.csv
+data/processed/simulation_run_summary.csv
+data/processed/winter_taxi_simulation.csv
+data/processed/*.parquet
+data/map/
